@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-15T11:39:10 IST" name="Suite" finished-at="2024-11-15T11:39:19 IST" duration-ms="9202">
+    <groups>
+    </groups>
+    <test started-at="2024-11-15T11:39:10 IST" name="Test" finished-at="2024-11-15T11:39:19 IST" duration-ms="9202">
+      <class name="test_package.amazomHomeTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test_package.amazomHomeTest@3d51f06e]" started-at="2024-11-15T11:39:10 IST" name="beforeTest" finished-at="2024-11-15T11:39:17 IST" duration-ms="6524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifyTheSearchInputField()[pri:0, instance:test_package.amazomHomeTest@3d51f06e]" started-at="2024-11-15T11:39:17 IST" name="verifyTheSearchInputField" finished-at="2024-11-15T11:39:19 IST" duration-ms="2618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheSearchInputField -->
+      </class> <!-- test_package.amazomHomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
