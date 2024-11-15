@@ -1,0 +1,9 @@
+This the file before push into the remote repository
+
+
+
+i am in master branch 	
+
+
+i am in tester1 branch 
+
